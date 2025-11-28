@@ -15,7 +15,7 @@ std = ["facet-core/std", "facet-reflect/std"]
 default = ["std"]
 
 [dependencies]
-facet-core = { version = "0.28.0", default-features = false, features = [
+facet-core = { version = "0.31.0", default-features = false, features = [
     "alloc",
 ] }
 facet-reflect = { version = "0.28.0", default-features = false, features = [
