@@ -18,7 +18,7 @@ default = ["std"]
 facet-core = { version = "0.28.0", default-features = false, features = [
     "alloc",
 ] }
-facet-reflect = { version = "0.28.0", default-features = false, features = [
+facet-reflect = { version = "0.31.0", default-features = false, features = [
     "alloc",
 ] }
 
